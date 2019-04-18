@@ -1,0 +1,11 @@
+# Exclude all jpgs
+
+*.jpg
+
+# Exclude ext folder
+
+/ext/*
+
+# Exclude al jpg file in images folder
+
+/images/*.jpg
